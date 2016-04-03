@@ -4,7 +4,7 @@ This a sub-repo of [Neard project](https://github.com/crazy-max/neard) involving
 
 * Download and install [Neard](https://github.com/crazy-max/neard).
 * If you already have installed Neard, stop it.
-* Download [an Gitlist bundle](#download).
+* Download [a Gitlist bundle](#download).
 * Extract archive in `neard\apps\gitlist\`. Directory structure example :
 
 ```
