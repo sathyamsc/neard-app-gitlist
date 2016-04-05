@@ -28,6 +28,7 @@ This a sub-repo of [Neard project](https://github.com/crazy-max/neard) involving
 |                     | Gitlist release date | Neard release | Download |
 | --------------------|:--------------------:|:-------------:|:--------:|
 | **Gitlist 0.4.0** ![](https://raw.github.com/crazy-max/neard-app-gitlist/master/img/star-20160403.png) | 2013/06/01 | [r1](https://github.com/crazy-max/neard-app-gitlist/releases/tag/r1) | [neard-gitlist-0.4.0-r1.zip](https://github.com/crazy-max/neard-app-gitlist/releases/download/r1/neard-gitlist-0.4.0-r1.zip) |
+| **Gitlist 0.5.0** | 2014/06/30 | [r2](https://github.com/crazy-max/neard-app-gitlist/releases/tag/r2) | [neard-gitlist-0.5.0-r2.zip](https://github.com/crazy-max/neard-app-gitlist/releases/download/r2/neard-gitlist-0.5.0-r2.zip) |
 
 ## Issues
 
