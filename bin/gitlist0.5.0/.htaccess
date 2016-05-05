@@ -2,7 +2,7 @@
     Options -MultiViews +SymLinksIfOwnerMatch
 
     RewriteEngine On
-    #RewriteBase /path/to/gitlist/
+    RewriteBase /gitlist/
 
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^(.*)$ index.php/$1 [L,NC]
